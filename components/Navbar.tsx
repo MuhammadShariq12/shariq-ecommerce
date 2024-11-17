@@ -33,7 +33,7 @@ const Navbar = () => {
       {/* Logo */}
       <Link href="/" className="h-full flex items-center">
         <Image
-          src="/khareedo.drawio.png"
+          src="/public/khareedo.drawio.png"
           alt="logo"
           width={170}
           height={150}
